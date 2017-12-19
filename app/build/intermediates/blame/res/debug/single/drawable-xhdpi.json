@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_songs.png",
+        "source": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\src\\main\\res\\drawable-xhdpi\\ic_songs.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_album.png",
+        "source": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\src\\main\\res\\drawable-xhdpi\\ic_album.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_artist.png",
+        "source": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\src\\main\\res\\drawable-xhdpi\\ic_artist.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_arrow.png",
+        "source": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings.png",
+        "source": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Austin\\.android\\build-cache\\efbf6e59fffd7af02ea5205fd9ca459f182b51fd\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Austin\\.android\\build-cache\\efbf6e59fffd7af02ea5205fd9ca459f182b51fd\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Austin\\.android\\build-cache\\efbf6e59fffd7af02ea5205fd9ca459f182b51fd\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Google Drive\\CS4020\\WavvesInterface\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Austin\\.android\\build-cache\\efbf6e59fffd7af02ea5205fd9ca459f182b51fd\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

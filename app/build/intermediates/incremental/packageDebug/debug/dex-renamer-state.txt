@@ -1,0 +1,4 @@
+#Wed Nov 29 16:15:40 CST 2017
+base.0=/Users/austin/Documents/WavvesInterface/app/build/intermediates/transforms/dexMerger/debug/18
+path.0=classes.dex
+renamed.0=classes.dex
